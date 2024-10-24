@@ -31,7 +31,8 @@ My research interest includes computer vision, multi-modal generative model and 
 # 🎖 Honors and Awards
 
 # 📖 Educations
-- *2022.09 - now*, Zhi Class, Yuanpei College, Peking University
+- *2022.09 - now*, Yuanpei College, Peking University
+- *2022.09 - now*, Zhi Class, School of EECS, Peking University
 
 # 💬 Invited Talks
 
