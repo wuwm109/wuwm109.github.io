@@ -29,6 +29,10 @@ My research interest includes computer vision, multi-modal generative model and 
 # 📝 Publications 
 
 # 🎖 Honors and Awards
+- *2024* Scholarship of Zhi Class 
+- *2022* Peking University Freshman Scholarship 
+- *2022* Outstanding Graduate Award of Shenzhen Middle School
+- *2020, 2021* First Prize in Chinese Physics Olympiad (CPhO), Guangdong Province
 
 # 📖 Educations
 - *2022.09 - now*, Yuanpei College, Peking University
