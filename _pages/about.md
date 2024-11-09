@@ -42,4 +42,7 @@ My research interest includes computer vision, multi-modal generative model and 
 
 # 💻 Internships
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uPei8bWb9abBe6c8TNkGmGbiSjNsaoSwdTYiiNWSgx4&cl=ffffff&w=a"></script>
+# 🗺️ Visitors
+<div style="width: 200px;"> <!-- 可以根据需要调整宽度，比如150px、300px等 -->
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uPei8bWb9abBe6c8TNkGmGbiSjNsaoSwdTYiiNWSgx4&cl=ffffff&w=a"></script>
+</div>
