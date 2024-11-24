@@ -38,10 +38,6 @@ My research interest includes computer vision, multi-modal generative model and 
 - *2022.09 - now*, Yuanpei College, Peking University
 - *2022.09 - now*, Zhi Class, School of EECS, Peking University
 
-# 💬 Invited Talks
-
-# 💻 Internships
-
 # 🗺️ Visitors
 <div style="width: 200px;"> <!-- 可以根据需要调整宽度，比如150px、300px等 -->
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uPei8bWb9abBe6c8TNkGmGbiSjNsaoSwdTYiiNWSgx4&cl=ffffff&w=a"></script>
