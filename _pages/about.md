@@ -28,19 +28,24 @@ My research interests include computer vision, multi-modal generative models, an
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- DiffSensei -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/papers/DiffSensei.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation](TODO)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jianzong Wu, **Chao Tang**, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://jianzongwu.github.io/projects/diffsensei)
+|
+[**Code**](https://github.com/jianzongwu/DiffSensei)
+|
+[**Demo**](https://huggingface.co/spaces/jianzongwu/DiffSensei)
+
+- DiffSensei can generate controllable black-and-white manga panels with flexible character adaptation.
+
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2024* Zhi Class Scholarship 
