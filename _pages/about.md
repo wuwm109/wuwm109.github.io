@@ -27,7 +27,6 @@ My research interests include computer vision, multi-modal generative models, an
 
 
 # 📝 Publications 
-
 <!-- DiffSensei -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/papers/DiffSensei.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
