@@ -38,8 +38,6 @@ Jianzong Wu, **Chao Tang**, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong
 [**Project**](https://jianzongwu.github.io/projects/diffsensei)
 |
 [**Code**](https://github.com/jianzongwu/DiffSensei)
-|
-[**Demo**](https://huggingface.co/spaces/jianzongwu/DiffSensei)
 
 - DiffSensei can generate controllable black-and-white manga panels with flexible character adaptation.
 
