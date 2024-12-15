@@ -35,6 +35,8 @@ My research interests include computer vision, multi-modal generative models, an
 
 Jianzong Wu, **Chao Tang**, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong
 
+[**Paper**](https://arxiv.org/abs/2412.07589)
+|
 [**Project**](https://jianzongwu.github.io/projects/diffsensei)
 |
 [**Code**](https://github.com/jianzongwu/DiffSensei)
