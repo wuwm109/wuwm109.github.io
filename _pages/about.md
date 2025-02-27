@@ -24,7 +24,7 @@ My research interests include computer vision, multi-modal generative models, an
 
 
 # 🔥 News
-
+- *2025.02*: &nbsp;🎉🎉 [DiffSensei](https://jianzongwu.github.io/projects/diffsensei) is accepted by CVPR 2025!
 
 # 📝 Publications 
 <!-- DiffSensei -->
