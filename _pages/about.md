@@ -24,11 +24,11 @@ My research interests include computer vision, multi-modal generative models, an
 
 
 # 🔥 News
-<!-- - *2025.02*: &nbsp;🎉🎉 [DiffSensei](https://jianzongwu.github.io/projects/diffsensei) is accepted by CVPR 2025! -->
+ - *2025.02*: &nbsp;🎉🎉 [DiffSensei](https://jianzongwu.github.io/projects/diffsensei) is accepted by CVPR 2025!
 
 # 📝 Publications 
 <!-- DiffSensei -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/papers/DiffSensei.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/DiffSensei.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation](https://arxiv.org/abs/2412.07589)
