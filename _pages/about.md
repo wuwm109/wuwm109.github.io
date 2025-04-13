@@ -30,11 +30,8 @@ My research interests include computer vision, multi-modal generative models, an
 <!-- DiffSensei -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/DiffSensei.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation](https://arxiv.org/abs/2412.07589)
-
 Jianzong Wu, **Chao Tang**, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong
-
 [**Paper**](https://arxiv.org/abs/2412.07589)
 |
 [**Project**](https://jianzongwu.github.io/projects/diffsensei)
@@ -42,6 +39,15 @@ Jianzong Wu, **Chao Tang**, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong
 [**Code**](https://github.com/jianzongwu/DiffSensei)
 
 - DiffSensei can generate controllable black-and-white manga panels with flexible character adaptation.
+
+<!-- GPT4o Report -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/GPT4o_Report' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[An Empirical Study of GPT-4o Image Generation Capabilities](https://arxiv.org/abs/2504.05979)
+Sixiang Chen, Jinbin Bai, Zhuoran Zhao, Tian Ye, Qingyu Shi, Donghao Zhou, Wenhao Chai, Xin Lin, Jianzong Wu, **Chao Tang**, Shilin Xu, Tao Zhang, Haobo Yuan, Yikang Zhou, Wei Chow, Linfeng Li, Xiangtai Li, Lei Zhu, Lu Qi
+[**Paper**](https://arxiv.org/abs/2504.05979)
+
+
 
 </div>
 </div>
