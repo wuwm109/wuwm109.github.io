@@ -46,7 +46,7 @@ Jianzong Wu, **Chao Tang**, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong
 </div>
 
 <!-- GPT4o Report -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Report</div><img src='images/papers/GPT4o_Report.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/GPT4o_Report.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [An Empirical Study of GPT-4o Image Generation Capabilities](https://arxiv.org/abs/2504.05979)
   
