@@ -55,6 +55,8 @@ Jianzong Wu, **Chao Tang**, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong
 Sixiang Chen, Jinbin Bai, Zhuoran Zhao, Tian Ye, Qingyu Shi, Donghao Zhou, Wenhao Chai, Xin Lin, Jianzong Wu, **Chao Tang**, Shilin Xu, Tao Zhang, Haobo Yuan, Yikang Zhou, Wei Chow, Linfeng Li, Xiangtai Li, Lei Zhu, Lu Qi
 
 [**Paper**](https://arxiv.org/abs/2504.05979)
+|
+[**Project**]([https://jianzongwu.github.io/projects/diffsensei](https://github.com/Ephemeral182/Empirical-Study-of-GPT-4o-Image-Gen))
 
 </div>
 </div>
