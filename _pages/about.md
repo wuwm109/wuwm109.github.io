@@ -30,7 +30,7 @@ My research interests include multi-modal learning and visual generative methods
 
 # 📝 Publications 
 <!-- DiffSensei -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/papers/DiffSensei.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025 Poster</div><img src='images/papers/DiffSensei.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation](https://arxiv.org/abs/2412.07589)
   
@@ -56,7 +56,21 @@ Sixiang Chen, Jinbin Bai, Zhuoran Zhao, Tian Ye, Qingyu Shi, Donghao Zhou, Wenha
 
 [**Paper**](https://arxiv.org/abs/2504.05979)
 |
-[**Project**]([https://jianzongwu.github.io/projects/diffsensei](https://github.com/Ephemeral182/Empirical-Study-of-GPT-4o-Image-Gen))
+[**Project**](https://github.com/Ephemeral182/Empirical-Study-of-GPT-4o-Image-Gen)
+
+</div>
+</div>
+
+<!-- StyleCraft -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC2025 Oral</div><img src='images/papers/StyleCraft.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[StyleCraft: High-Quality Arbitrary Style Transfer via Unified Content-Style Fusion]()
+  
+**Chao Tang**, Xinhai Chang
+
+[**Paper(Coming Soon)**]()
+|
+[**Code(Coming Soon)**]()
 
 </div>
 </div>
