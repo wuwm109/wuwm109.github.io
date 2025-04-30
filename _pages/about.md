@@ -26,6 +26,7 @@ My research interests include multi-modal learning and visual generative methods
 
 
 # 🔥 News
+ - *2025.04*: &nbsp;🎉🎉 [StyleCraft(Coming Soon)]() is accepted by ICIC 2025!
  - *2025.02*: &nbsp;🎉🎉 [DiffSensei](https://jianzongwu.github.io/projects/diffsensei) is accepted by CVPR 2025!
 
 # 📝 Publications 
@@ -64,7 +65,7 @@ Sixiang Chen, Jinbin Bai, Zhuoran Zhao, Tian Ye, Qingyu Shi, Donghao Zhou, Wenha
 <!-- StyleCraft -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC2025 Oral</div><img src='images/papers/StyleCraft.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[StyleCraft: High-Quality Arbitrary Style Transfer via Unified Content-Style Fusion]()
+[StyleCraft: High-Quality Arbitrary Style Transfer via Unified Content-Style Fusion(Coming Soon)]()
   
 **Chao Tang**, Xinhai Chang
 
