@@ -71,7 +71,7 @@ Sixiang Chen, Jinbin Bai, Zhuoran Zhao, Tian Ye, Qingyu Shi, Donghao Zhou, Wenha
 
 [**Paper(Coming Soon)**]()
 |
-[**Code**](https://github.com/Tangc03/StyleCraft/tree/main)
+[**Code**](https://github.com/Tangc03/StyleCraft)
 
 </div>
 </div>
