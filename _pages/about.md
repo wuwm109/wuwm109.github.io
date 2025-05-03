@@ -31,7 +31,7 @@ My research interests include multi-modal learning and visual generative methods
 
 # 📝 Publications 
 <!-- DiffSensei -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025 Poster</div><img src='images/papers/DiffSensei.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/papers/DiffSensei.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation](https://arxiv.org/abs/2412.07589)
   
