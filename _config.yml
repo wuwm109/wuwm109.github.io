@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chao Tang | 唐超"
-description              : "Yuanpei College, Zhi Class"
+title                    : "Weiming Wu | 吴伟铭"
+description              : "Intelligence of Science and technology"
 repository               : "Tangc03/Tangc03.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chao Tang | 唐超"
+  name             : "Weiming Wu | 吴伟铭"
   avatar           : "images/avatar.png"
-  bio              : "Peking University"
-  location         : "Beijing, China"
+  bio              : "Nanjing University"
+  location         : "Suzhou, China"
   employer         :
   pubmed           : 
   googlescholar    : https://scholar.google.com/citations?user=SCHOLAR_ID&user=KpVFMqYAAAAJ
-  email            : "tc_2003@stu.pku.edu.cn"
-  researchgate     : https://www.researchgate.net/profile/Chao-Tang-69
+  email            : "231880297@smail.nju.edu.cn"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : Tangc03 # e.g., "github username"
+  github           : wuwm04 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
