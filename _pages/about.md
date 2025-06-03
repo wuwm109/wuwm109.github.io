@@ -25,9 +25,6 @@ My research interests include multi-modal learning and reasoning, computer visio
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
-# 🔥 News
- <!-- - *2025.04*: &nbsp;🎉🎉 [StyleCraft(Coming Soon)]() is accepted by ICIC 2025! -->
- - *2025.02*: &nbsp;🎉🎉 [DiffSensei](https://jianzongwu.github.io/projects/diffsensei) is accepted by CVPR 2025!
 
 # 📝 Publications 
 <!-- MLLMs Benchmark -->
