@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at [School of Intelligence Science and Technology](https://is.nju.edu.cn/), [Nanjing University (NJU)]([https://www.nju.edu.cn/](https://www.nju.edu.cn/en/)).
+I am an undergraduate student at [School of Intelligence Science and Technology](https://is.nju.edu.cn/), [Nanjing University (NJU)](https://www.nju.edu.cn/).
 
 Currently, I am majoring in Artificial Intelligence. I am honored to be advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?user=dpunvqgAAAAJ&hl=en) and [Prof. Kai Zhang](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ), and to collaborate with the great senior Zi-kang Wang and  [Jin Ye](https://scholar.google.com/citations?user=r4r7-KUAAAAJ&hl=en)
 
