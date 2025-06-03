@@ -44,7 +44,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 </div>
 
 <!-- NeSyGeo -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Paper</div><img src='images/papers/nesygeo.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Paper</div><img src='images/papers/nesygeo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [NeSyGeo: A Neuro-Symbolic Framework for Multimodal Geometric Reasoning Data Generation](https://arxiv.org/abs/2505.17121)
   
