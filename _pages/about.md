@@ -32,7 +32,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 <div class='paper-box-text' markdown="1">
 [On Path to Multimodal Generalist: General-Level and General-Bench](https://arxiv.org/abs/2505.04620)
   
-
+Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong Wu, Yaoting Wang, Junbao Zhou, Jiahao Meng, Qingyu Shi, Zhiyuan Zhou, Liangtao Shi, Minghe Gao, Daoan Zhang, Zhiqi Ge, **Weiming Wu**, Siliang Tang, Kaihang Pan, Yaobo Ye, Haobo Yuan, Tao Zhang, Tianjie Ju, Zixiang Meng, Shilin Xu, Liyu Jia, Wentao Hu, Meng Luo, Jiebo Luo, Tat-Seng Chua, Shuicheng Yan, Hanwang Zhang
 [**Paper**](https://arxiv.org/abs/2505.04620)
 |
 [**Project**](https://generalist.top/)
