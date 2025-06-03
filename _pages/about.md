@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student at [Yuanpei College](https://yuanpei.pku.edu.cn/en/), [Peking University (PKU)]([https://www.pku.edu.cn/](https://english.pku.edu.cn/)), and a junior in [Zhi Class](https://zhi-class.ai/), [School of Electronics Engineering and Computer Science (EECS)](https://eecs.pku.edu.cn/en/), [Peking University (PKU)]([https://www.pku.edu.cn/](https://english.pku.edu.cn/)).
+I am an undergraduate student at [School of Intelligence Science and Technology](https://is.nju.edu.cn/), [Nanjing University (NJU)]([https://www.nju.edu.cn/](https://www.nju.edu.cn/en/)).
 
-Currently, I am majoring in Artificial Intelligence. I am honored to be advised by [Prof. Yunhai Tong](https://scholar.google.com/citations?hl=zh-CN&user=T4gqdPkAAAAJ), [Dr. Xiangtai Li](https://lxtgh.github.io/) from Bytedance Seed (Tiktok), Singapore, and to collaborate with the great senior [Jianzong Wu](https://jianzongwu.github.io/).
+Currently, I am majoring in Artificial Intelligence. I am honored to be advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?user=dpunvqgAAAAJ&hl=en) and [Prof. Kai Zhang](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ), and to collaborate with the great senior Zi-kang Wang and  [Jin Ye](https://scholar.google.com/citations?user=r4r7-KUAAAAJ&hl=en)
 
-My research interests include multi-modal learning and visual generative methods for image, video, and artistic creations.
+My research interests include multi-modal learning and reasoning, computer vision for image. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
@@ -30,35 +30,30 @@ My research interests include multi-modal learning and visual generative methods
  - *2025.02*: &nbsp;🎉🎉 [DiffSensei](https://jianzongwu.github.io/projects/diffsensei) is accepted by CVPR 2025!
 
 # 📝 Publications 
-<!-- DiffSensei -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2025</div><img src='images/papers/DiffSensei.png' alt="sym" width="100%"></div></div>
+<!-- MLLMs Benchmark -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/papers/path.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation](https://arxiv.org/abs/2412.07589)
+[On Path to Multimodal Generalist: General-Level and General-Bench](https://arxiv.org/abs/2505.04620)
   
-Jianzong Wu, **Chao Tang**, Jingbo Wang, Yanhong Zeng, Xiangtai Li, Yunhai Tong
 
-[**Paper**](https://arxiv.org/abs/2412.07589)
+[**Paper**](https://arxiv.org/abs/2505.04620)
 |
-[**Project**](https://jianzongwu.github.io/projects/diffsensei)
+[**Project**](https://generalist.top/)
 |
-[**Code**](https://github.com/jianzongwu/DiffSensei)
+[**Benchmark**](https://huggingface.co/General-Level)
 
-- DiffSensei can generate controllable black-and-white manga panels with flexible character adaptation.
 
 </div>
 </div>
 
-<!-- GPT4o Report -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Report</div><img src='images/papers/GPT4o_Report.jpeg' alt="sym" width="100%"></div></div>
+<!-- NeSyGeo -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Report</div><img src='images/papers/nesygeo.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[An Empirical Study of GPT-4o Image Generation Capabilities](https://arxiv.org/abs/2504.05979)
+[NeSyGeo: A Neuro-Symbolic Framework for Multimodal Geometric Reasoning Data Generation](https://arxiv.org/abs/2505.17121)
   
-Sixiang Chen, Jinbin Bai, Zhuoran Zhao, Tian Ye, Qingyu Shi, Donghao Zhou, Wenhao Chai, Xin Lin, Jianzong Wu, **Chao Tang**, Shilin Xu, Tao Zhang, Haobo Yuan, Yikang Zhou, Wei Chow, Linfeng Li, Xiangtai Li, Lei Zhu, Lu Qi
+**Weiming Wu**, Zi-kang Wang, Jin Ye, Zhi Zhou, Yu-Feng Li, Lan-Zhe Guo
 
-[**Paper**](https://arxiv.org/abs/2504.05979)
-|
-[**Project**](https://github.com/Ephemeral182/Empirical-Study-of-GPT-4o-Image-Gen)
-
+[**Paper**](https://arxiv.org/abs/2505.17121)
 </div>
 </div>
 
@@ -80,17 +75,12 @@ Sixiang Chen, Jinbin Bai, Zhuoran Zhao, Tian Ye, Qingyu Shi, Donghao Zhou, Wenha
 </div>
 
 # 🎖 Honors and Awards
-- *2024* Zhi Class Scholarship 
-- *2022* Peking University Freshman Scholarship 
-- *2022* Outstanding Graduate Award of Shenzhen Middle School
-- *2020, 2021* First Prize in Chinese Physics Olympiad (CPhO), Guangdong Province
-
+- *2024* Nanjing University RuLi Scholarship 
 # 📖 Educations
-- *2022.09 - now*, Yuanpei College, Peking University
-- *2022.09 - now*, Zhi Class, School of EECS, Peking University
+- *2023.09 - now*, School of Intelligence Science and Technology, Nanjing University
 
 # 💁‍♂️ Services
-- Reviewer: DeLTa@ICLR'25, FM-Wild@ICLR'25, IJCNN'25, CogSci'25
+- Reviewer: IJCAI'25, ECAI'25
 
 # 🗺️ Visitors
 <div style="width: 200px;"> <!-- 可以根据需要调整宽度，比如150px、300px等 -->
