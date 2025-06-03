@@ -72,7 +72,8 @@ Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong W
 </div>
 
 # 🎖 Honors and Awards
-- *2024* Nanjing University RuLi Scholarship 
+- *2024* Nanjing University RuLi Scholarship
+- 
 # 📖 Educations
 - *2023.09 - now*, School of Intelligence Science and Technology, Nanjing University
 
