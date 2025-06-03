@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Weiming Wu"
 description              : "Intelligence of Science and technology"
-repository               : "Tangc03/Tangc03.github.io"
+repository               : "wuwm04/wuwm04.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Weiming Wu | 吴伟铭"
+  name             : "Weiming Wu"
   avatar           : "images/avatar.png"
   bio              : "Nanjing University"
   location         : "Suzhou, China"
