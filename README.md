@@ -1,4 +1,4 @@
-This is the code for Chao Tang's Homepage built based on the project mentioned below.
+This is the code for Weiming Wu's Homepage built based on the project mentioned below.
 
 <h1 align="center">
 AcadHomepage
