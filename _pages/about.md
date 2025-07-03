@@ -25,6 +25,8 @@ My research interests include multi-modal learning and reasoning, computer visio
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
+# 🔥 News
+- I will join Didiglobal as a Research Intern in Beijing, China.
 
 # 📝 Publications 
 <!-- MLLMs Benchmark -->
@@ -78,7 +80,7 @@ Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong W
 - *2023.09 - now*, School of Intelligence Science and Technology, Nanjing University
 
 # 💁‍♂️ Services
-- Reviewer: IJCAI'25, ECAI'25
+- Reviewer: IJCAI'25, ECAI'25, ICML'25 Workshop@AI4Math
 
 # 🗺️ Visitors
 <div style="width: 200px;"> <!-- 可以根据需要调整宽度，比如150px、300px等 -->
