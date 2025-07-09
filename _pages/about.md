@@ -26,7 +26,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 
 
 # 🔥 News
- - *2025.06*: &nbsp; I will join Didiglobal as a Research Intern in Beijing, China this Summer. Feel free to have a coffee chat if you're in Beijing.
+ - *2025.06*: &nbsp; I will join Didiglobal as a Research Intern in Beijing, China this Summer. If you happen to be in Beijing, feel free to have a coffee chat.
 - *2025.07*:&nbsp;🎉🎉 Our work [NesyGeo](https://arxiv.org/abs/2505.17121) is accepted by AI4Math@ICML25
 # 📝 Publications 
 <!-- MLLMs Benchmark -->
