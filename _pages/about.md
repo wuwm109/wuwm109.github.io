@@ -19,7 +19,7 @@ redirect_from:
 
 I am an undergraduate student at [School of Intelligence Science and Technology](https://is.nju.edu.cn/), [Nanjing University (NJU)](https://www.nju.edu.cn/).
 
-Currently, I am majoring in Artificial Intelligence. I am honored to be advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?user=dpunvqgAAAAJ&hl=en) and [Prof. Kai Zhang](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ), and to collaborate with the great senior Zi-kang Wang and  [Jin Ye](https://scholar.google.com/citations?user=r4r7-KUAAAAJ&hl=en)
+Currently, I am majoring in Artificial Intelligence. I am honored to be advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?user=dpunvqgAAAAJ&hl=en) and [Prof. Kai Zhang](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ), and to collaborate with the great senior [Zi-jian Cheng](https://openreview.net/profile?id=~Zi-Jian_Cheng1) and  [Chao Tang](https://tangc03.github.io/)
 
 My research interests include multi-modal learning and reasoning, computer vision for image. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -80,9 +80,16 @@ Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong W
 
 # 📖 Educations
 - *2023.09 - now*, School of Intelligence Science and Technology, Nanjing University
+- 
+# 💼 Experience
+- *2026.02 - now*, Research Assistant, XLANG Lab, The University of Hong Kong
+  - Advised by [Prof. Tao Yu](https://taoyds.github.io/)
+- *2025.07 - now*, Research Intern, MPT Department, Didiglobal, Beijing, China
+-  *2025.07 - now*, Research Assistant, Lamda12, Nanjing University
 
 # 💁‍♂️ Services
-- Reviewer: IJCAI'25, ECAI'25, ICML'25 Workshop@AI4Math
+- Reviewer:  ECAI'25, ICML'25 Workshop@AI4Math
+- Teaching Assistant: 2025 fall Introduction to AI at NJU IS
 
 # 🗺️ Visitors
 <div style="width: 200px;"> <!-- 可以根据需要调整宽度，比如150px、300px等 -->
