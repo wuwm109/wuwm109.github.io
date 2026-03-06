@@ -84,7 +84,7 @@ Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong W
 # 💼 Experience
 - *2026.02 - now*, Research Assistant, XLANG Lab, The University of Hong Kong
 - *2025.07 - now*, Research Intern, MPT Department, Didiglobal, Beijing, China
--  *2025.07 - now*, Research Assistant, Lamda12, Nanjing University
+-  *2024.10 - now*, Research Assistant, Lamda-12 Lab, Nanjing University
 
   
 # 💁‍♂️ Services
