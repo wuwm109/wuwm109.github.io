@@ -80,13 +80,13 @@ Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong W
 
 # 📖 Educations
 - *2023.09 - now*, School of Intelligence Science and Technology, Nanjing University
-- 
+
 # 💼 Experience
 - *2026.02 - now*, Research Assistant, XLANG Lab, The University of Hong Kong
-  - Advised by [Prof. Tao Yu](https://taoyds.github.io/)
 - *2025.07 - now*, Research Intern, MPT Department, Didiglobal, Beijing, China
 -  *2025.07 - now*, Research Assistant, Lamda12, Nanjing University
 
+  
 # 💁‍♂️ Services
 - Reviewer:  ECAI'25, ICML'25 Workshop@AI4Math
 - Teaching Assistant: 2025 fall Introduction to AI at NJU IS
