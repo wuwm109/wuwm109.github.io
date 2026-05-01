@@ -22,32 +22,43 @@ I am an undergraduate student at [School of Intelligence Science and Technology]
 Currently, I am majoring in Artificial Intelligence. I am honored to be advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?user=dpunvqgAAAAJ&hl=en) and [Prof. Kai Zhang](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ), and to collaborate with the great senior [Zi-jian Cheng](https://openreview.net/profile?id=~Zi-Jian_Cheng1) and  [Chao Tang](https://tangc03.github.io/)
 
 My research interests include multi-modal learning and reasoning, computer vision for image. 
-<!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
- - *2025.06--*: &nbsp; I will join Didiglobal as a Research Intern in Beijing, China this Summer. If you happen to be in Beijing, feel free to have a coffee chat.
-- *2025.07*:&nbsp;🎉🎉 Our work [NesyGeo](https://arxiv.org/abs/2505.17121) is accepted by AI4Math@ICML25
+- *2026.05*: &nbsp;🎉🎉 Our paper OpenAgent is accepted by ICML 2026!
+- *2025.06*: &nbsp; I will join Didiglobal as a Research Intern in Beijing, China this Summer. If you happen to be in Beijing, feel free to have a coffee chat.
+- *2025.07*: &nbsp;🎉🎉 Our work [NesyGeo](https://arxiv.org/abs/2505.17121) is accepted by AI4Math@ICML25
 
 # 📝 Publications 
-<!-- MLLMs Benchmark -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Oral</div><img src='images/papers/path.png' alt="sym" width="100%"></div></div>
+
+<!-- OpenAgent -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/openagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[On Path to Multimodal Generalist: General-Level and General-Bench](https://arxiv.org/abs/2505.04620)
-  
-Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong Wu, Yaoting Wang, Junbao Zhou, Jiahao Meng, Qingyu Shi, Zhiyuan Zhou, Liangtao Shi, Minghe Gao, Daoan Zhang, Zhiqi Ge, **Weiming Wu**, Siliang Tang, Kaihang Pan, Yaobo Ye, Haobo Yuan, Tao Zhang, Tianjie Ju, Zixiang Meng, Shilin Xu, Liyu Jia, Wentao Hu, Meng Luo, Jiebo Luo, Tat-Seng Chua, Shuicheng Yan, Hanwang Zhang
-[**Paper**](https://arxiv.org/abs/2505.04620)
-|
-[**Project**](https://generalist.top/)
-|
-[**Benchmark**](https://huggingface.co/General-Level)
+[Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use]()
 
+**Weiming Wu**<sup>*</sup>, Song-Lin Lv<sup>*</sup>, Rui Zhu, Zi-Jian Cheng, Lan-Zhe Guo
+
+<sup>*</sup>Equal Contribution
 
 </div>
 </div>
+
+<!-- Ride-Hailing -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/papers/adjudication.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication](https://arxiv.org/abs/2603.17328)
+
+**Weiming Wu**, Zi-Jian Cheng, Jiahao Meng, Peng Zhen, Sheng Huang, Qi Li, Gang Wu, Lan-Zhe Guo
+
+[**Paper**](https://arxiv.org/abs/2603.17328)
+
+</div>
+</div>
+
+
 
 <!-- NeSyGeo -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Paper</div><img src='images/papers/nesygeo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4Math@ICML 2025</div><img src='images/papers/nesygeo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [NeSyGeo: A Neuro-Symbolic Framework for Multimodal Geometric Reasoning Data Generation](https://arxiv.org/abs/2505.17121)
   
@@ -56,25 +67,25 @@ Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong W
 [**Paper**](https://arxiv.org/abs/2505.17121)
 </div>
 </div>
-
-
-<!-- StyleCraft -->
-<div style="display:none">
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIC2025 Oral</div><img src='images/papers/StyleCraft.png' alt="sym" width="100%"></div></div>
+<!-- MLLMs Benchmark -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Oral</div><img src='images/papers/path.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[StyleCraft: High-Quality Arbitrary Style Transfer via Unified Content-Style Fusion(Coming Soon)]()
+[On Path to Multimodal Generalist: General-Level and General-Bench](https://arxiv.org/abs/2505.04620)
   
-**Chao Tang**, Xinhai Chang
+Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong Wu, Yaoting Wang, Junbao Zhou, Jiahao Meng, Qingyu Shi, Zhiyuan Zhou, Liangtao Shi, Minghe Gao, Daoan Zhang, Zhiqi Ge, **Weiming Wu**, Siliang Tang, Kaihang Pan, Yaobo Ye, Haobo Yuan, Tao Zhang, Tianjie Ju, Zixiang Meng, Shilin Xu, Liyu Jia, Wentao Hu, Meng Luo, Jiebo Luo, Tat-Seng Chua, Shuicheng Yan, Hanwang Zhang
 
-[**Paper(Coming Soon)**]()
+[**Paper**](https://arxiv.org/abs/2505.04620)
 |
-[**Code**](https://github.com/Tangc03/StyleCraft)
+[**Project**](https://generalist.top/)
+|
+[**Benchmark**](https://huggingface.co/General-Level)
 
 </div>
 </div>
+
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
 - *2024:* Nanjing University RuLi Scholarship
 - *2025:*  National Scholarship (Top 0.2%, Highest Honor for undergraduates in China)
 
@@ -92,6 +103,6 @@ Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong W
 - Teaching Assistant: 2025 fall Introduction to AI at NJU IS
 
 # 🗺️ Visitors
-<div style="width: 200px;"> <!-- 可以根据需要调整宽度，比如150px、300px等 -->
+<div style="width: 200px;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uPei8bWb9abBe6c8TNkGmGbiSjNsaoSwdTYiiNWSgx4&cl=ffffff&w=a"></script>
 </div>
