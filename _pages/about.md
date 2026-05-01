@@ -19,8 +19,7 @@ redirect_from:
 
 I am an undergraduate student at [School of Intelligence Science and Technology](https://is.nju.edu.cn/), [Nanjing University (NJU)](https://www.nju.edu.cn/).
 
-Currently, I am majoring in Artificial Intelligence. I am honored to be advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?user=dpunvqgAAAAJ&hl=en) and [Prof. Kai Zhang](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ), and to collaborate with the great senior [Zi-jian Cheng](https://openreview.net/profile?id=~Zi-Jian_Cheng1) and  [Chao Tang](https://tangc03.github.io/)
-
+Currently, I am majoring in Artificial Intelligence. I am honored to be advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?user=dpunvqgAAAAJ&hl=en) and [Prof. Kai Zhang](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ), and to collaborate with the great senior [Zi-jian Cheng](https://openreview.net/profile?id=~Zi-Jian_Cheng1) and  Songlin Lv.
 My research interests include multi-modal learning and reasoning, computer vision for image. 
 
 
