@@ -27,7 +27,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Our paper OpenAgent is accepted by ICML 2026!
 - *2025.06*: &nbsp; I will join Didiglobal as a Research Intern in Beijing, China this Summer. If you happen to be in Beijing, feel free to have a coffee chat.
-- *2025.07*: &nbsp;🎉🎉 Our work [NesyGeo](https://arxiv.org/abs/2505.17121) is accepted by AI4Math@ICML25
+- *2025.07*: &nbsp;🎉🎉 Our work [NesyGeo](https://arxiv.org/abs/2505.17121) is accepted by AI4Math@ICML25!
 
 # 📝 Publications 
 
@@ -44,7 +44,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 </div>
 
 <!-- Ride-Hailing -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2026</div><img src='images/papers/adjudication.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/adjudication.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication](https://arxiv.org/abs/2603.17328)
 
@@ -62,7 +62,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 <div class='paper-box-text' markdown="1">
 [NeSyGeo: A Neuro-Symbolic Framework for Multimodal Geometric Reasoning Data Generation](https://arxiv.org/abs/2505.17121)
   
-**Weiming Wu**, Zi-kang Wang, Jin Ye, Zhi Zhou, Yu-Feng Li, Lan-Zhe Guo
+**Weiming Wu**, Jin Ye, Zi-kang Wang, Zhi Zhou, Yu-Feng Li, Lan-Zhe Guo
 
 [**Paper**](https://arxiv.org/abs/2505.17121)
 </div>
@@ -86,8 +86,8 @@ Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong W
 </div>
 
 # 🎖 Selected Honors and Awards
-- *2024:* Nanjing University RuLi Scholarship
 - *2025:*  National Scholarship (Top 0.2%, Highest Honor for undergraduates in China)
+- *2024:* Nanjing University RuLi Scholarship
 
 # 📖 Educations
 - *2023.09 - now*, School of Intelligence Science and Technology, Nanjing University
