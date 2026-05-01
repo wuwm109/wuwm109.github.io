@@ -19,7 +19,8 @@ redirect_from:
 
 I am an undergraduate student at [School of Intelligence Science and Technology](https://is.nju.edu.cn/), [Nanjing University (NJU)](https://www.nju.edu.cn/).
 
-Currently, I am majoring in Artificial Intelligence. I am honored to be advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?user=dpunvqgAAAAJ&hl=en) and [Prof. Kai Zhang](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ), and to collaborate with the great senior [Zi-jian Cheng](https://openreview.net/profile?id=~Zi-Jian_Cheng1) and  Songlin Lv.
+Currently, I am majoring in Artificial Intelligence. I am honored to be advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?user=dpunvqgAAAAJ&hl=en) and [Prof. Kai Zhang](https://scholar.google.com.hk/citations?user=0RycFIIAAAAJ), and to collaborate with the great senior [Zi-jian Cheng](https://openreview.net/profile?id=~Zi-Jian_Cheng1) and  Song-lin Lv.
+
 My research interests include multi-modal learning and reasoning, computer vision for image. 
 
 
@@ -47,7 +48,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 <div class='paper-box-text' markdown="1">
 [A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication](https://arxiv.org/abs/2603.17328)
 
-**Weiming Wu**, Zi-Jian Cheng, Jiahao Meng, Peng Zhen, Sheng Huang, Qi Li, Gang Wu, Lan-Zhe Guo
+**Weiming Wu**<sup>*</sup>, Zi-Jian Cheng<sup>*</sup>, Jiahao Meng, Peng Zhen, Sheng Huang, Qi Li, Gang Wu, Lan-Zhe Guo
 
 [**Paper**](https://arxiv.org/abs/2603.17328)
 
