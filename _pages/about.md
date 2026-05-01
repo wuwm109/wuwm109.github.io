@@ -82,7 +82,6 @@ Hao Fei, Yuan Zhou, Juncheng Li, Xiangtai Li, Qingshan Xu, Bobo Li, Shengqiong W
 
 </div>
 </div>
-</div>
 
 # 🎖 Selected Honors and Awards
 - *2025:*  National Scholarship (Top 0.2%, Highest Honor for undergraduates in China)
