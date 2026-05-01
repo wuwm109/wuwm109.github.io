@@ -48,7 +48,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 <div class='paper-box-text' markdown="1">
 [A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication](https://arxiv.org/abs/2603.17328)
 
-**Weiming Wu**<sup>*</sup>, Zi-Jian Cheng<sup>*</sup>, Jiahao Meng, Peng Zhen, Sheng Huang, Qi Li, Gang Wu, Lan-Zhe Guo
+**Weiming Wu**<sup>*</sup>, Zi-Jian Cheng<sup>*</sup>, Jie Meng, Peng Zhen, Shan Huang, Qun Li, Guobin Wu, Lan-Zhe Guo
 
 [**Paper**](https://arxiv.org/abs/2603.17328)
 
