@@ -25,6 +25,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Our paper RideJudge is accepted by KDD 2026!
 - *2026.05*: &nbsp;🎉🎉 Our paper OpenAgent is accepted by ICML 2026!
 - *2025.06*: &nbsp; I will join Didiglobal as a Research Intern in Beijing, China this Summer. If you happen to be in Beijing, feel free to have a coffee chat.
 - *2025.07*: &nbsp;🎉🎉 Our work [NesyGeo](https://arxiv.org/abs/2505.17121) is accepted by AI4Math@ICML25!
@@ -44,7 +45,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 </div>
 
 <!-- Ride-Hailing -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/adjudication.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/papers/adjudication.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication](https://arxiv.org/abs/2603.17328)
 
@@ -68,7 +69,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 </div>
 </div>
 <!-- MLLMs Benchmark -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Oral</div><img src='images/papers/path.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025(Oral)</div><img src='images/papers/path.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [On Path to Multimodal Generalist: General-Level and General-Bench](https://arxiv.org/abs/2505.04620)
   
