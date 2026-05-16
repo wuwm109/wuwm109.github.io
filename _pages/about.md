@@ -33,7 +33,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 # 📝 Publications 
 
 <!-- OpenAgent -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/openagent.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 (CCF-A)</div><img src='images/papers/openagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use]()
 
@@ -45,7 +45,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 </div>
 
 <!-- Ride-Hailing -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/papers/adjudication.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026 (CCF-A)</div><img src='images/papers/adjudication.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication](https://arxiv.org/abs/2603.17328)
 
@@ -69,7 +69,7 @@ My research interests include multi-modal learning and reasoning, computer visio
 </div>
 </div>
 <!-- MLLMs Benchmark -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025(Oral)</div><img src='images/papers/path.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Oral(CCF-A)</div><img src='images/papers/path.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [On Path to Multimodal Generalist: General-Level and General-Bench](https://arxiv.org/abs/2505.04620)
   
