@@ -98,14 +98,14 @@ At NJU, I am advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 Our paper RideJudge is accepted by KDD 2026!
 - *2026.05*: &nbsp;🎉🎉 Our paper OpenAgent is accepted by ICML 2026!
-- *2025.07*: &nbsp;🎉🎉 Our work [NesyGeo](https://arxiv.org/abs/2505.17121) is accepted by AI4Math@ICML25!
+- *2025.07*: &nbsp;🎉🎉 Our work NesyGeo is accepted by AI4Math@ICML25!
 
 # 📝 Publications 
 
 <p class="pub-equal-note"><sup>*</sup> Equal contribution.</p>
 
 <!-- OSWorld 2.0 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='https://osworld-v2.xlang.ai/static/images/osworld2/osworldv2_figure_main_latest.png' alt="OSWorld 2.0 overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='https://osworld-v2.xlang.ai/static/images/osworld2/osworldv2_figure_main_latest.png' alt="OSWorld 2.0 overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [OSWorld 2.0: Benchmarking Computer-Use Agents on Long-Horizon Real-World Tasks](https://arxiv.org/abs/2606.29537)
 
@@ -203,6 +203,7 @@ Zi-Jian Cheng<sup>*</sup>, **Weiming Wu**<sup>*</sup>, Jie Meng, Zhen Peng, Shan
 [MapTab: Are MLLMs Ready for Multi-Criteria Route Planning in Heterogeneous Graphs?](https://arxiv.org/abs/2602.18600)
   
 Ziqiao Shang<sup>*</sup>, Lingyue Ge<sup>*</sup>, Zi-Jian Cheng, Shi-Yu Tian, Zhenyu Huang, Wenbo Fu, **Weiming Wu**, Yang Chen, Xiangwen Zhang, Yulan Hu, Bin Liu, Yu-Feng Li, Lan-Zhe Guo
+
 [**Paper**](https://arxiv.org/abs/2602.18600)
 |
 [**Code**](https://github.com/Ziqiao-Shang/MapTab)
