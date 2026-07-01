@@ -26,7 +26,67 @@ At NJU, I am advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?
 
 👋 If you're interested in my research or just want to chat, feel free to reach out by [email](mailto:231880297@smail.nju.edu.cn) or <button type="button" class="inline-link-button" data-wechat-open>WeChat</button>.
 
-<div class="wechat-modal" id="wechat-modal" hidden aria-hidden="true">
+<style>
+.impact-stat,
+.impact-number {
+  color: #b22222 !important;
+  font-weight: 700 !important;
+}
+
+.impact-stat:link,
+.impact-stat:visited {
+  color: #b22222 !important;
+}
+
+#wechat-modal[hidden] {
+  display: none !important;
+}
+
+#wechat-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background: rgba(0, 0, 0, .52);
+}
+
+.wechat-modal__panel {
+  position: relative;
+  width: min(360px, 92vw);
+  padding: 1rem;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 18px 60px rgba(0, 0, 0, .28);
+  text-align: center;
+}
+
+.wechat-modal__close {
+  position: absolute;
+  top: .35rem;
+  right: .45rem;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  color: #333;
+  font-size: 1.6rem;
+  line-height: 2rem;
+  cursor: pointer;
+}
+
+.wechat-modal__image {
+  display: block;
+  width: 100%;
+  max-height: 72vh;
+  object-fit: contain;
+}
+</style>
+
+<div class="wechat-modal" id="wechat-modal" hidden aria-hidden="true" style="display: none;">
   <div class="wechat-modal__panel" role="dialog" aria-modal="true" aria-label="WeChat contact">
     <button type="button" class="wechat-modal__close" data-wechat-close aria-label="Close WeChat contact">&times;</button>
     <img class="wechat-modal__image" src="images/wechat.jpg" alt="WeChat QR code">
@@ -261,6 +321,7 @@ Ziqiao Shang<sup>*</sup>, Lingyue Ge<sup>*</sup>, Zi-Jian Cheng, Shi-Yu Tian, Zh
       return;
     }
     modal.hidden = false;
+    modal.style.display = 'flex';
     modal.setAttribute('aria-hidden', 'false');
   }
 
@@ -269,6 +330,7 @@ Ziqiao Shang<sup>*</sup>, Lingyue Ge<sup>*</sup>, Zi-Jian Cheng, Shi-Yu Tian, Zh
       return;
     }
     modal.hidden = true;
+    modal.style.display = 'none';
     modal.setAttribute('aria-hidden', 'true');
   }
 
