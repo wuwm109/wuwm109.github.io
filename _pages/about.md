@@ -132,6 +132,8 @@ OSWorld 2.0 Hugging Face <a href="https://huggingface.co/datasets/xlangai/osworl
 
 **Weiming Wu**<sup>*</sup>, Song-Lin Lv<sup>*</sup>, Rui Zhu, Zi-Jian Cheng, Lan-Zhe Guo
 
+[**Paper**](https://openreview.net/pdf?id=G3hX5Fkrg7)
+|
 [**Project**](https://wuwm109.github.io/OpenAgent-Page/)
 |
 [**Code**](https://github.com/LAMDA-NeSy/OpenAgent)
@@ -158,7 +160,7 @@ OSWorld 2.0 Hugging Face <a href="https://huggingface.co/datasets/xlangai/osworl
 <div class='paper-box-text' markdown="1">
 [NeSyGeo: A Neuro-Symbolic Framework for Multimodal Geometric Reasoning Data Generation](https://arxiv.org/abs/2505.17121)
   
-**Weiming Wu**, Jin Ye, Zi-kang Wang, Zhi Zhou, Yu-Feng Li, Lan-Zhe Guo
+**Weiming Wu**, Jin Ye, Zi-Kang Wang, Zhi Zhou, Yu-Feng Li, Lan-Zhe Guo
 
 [**Paper**](https://arxiv.org/abs/2505.17121)
 </div>
