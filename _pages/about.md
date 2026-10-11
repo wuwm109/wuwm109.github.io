@@ -111,6 +111,20 @@ At NJU, I am advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?
 
 <p class="pub-equal-note"><sup>*</sup> Equal contribution.</p>
 
+<!-- RLHarness -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/papers/rlharness.png' alt="RLHarness skill-policy co-adaptation" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[RLHarness: Co-evolving Procedural Skills with Reinforcement Learning for Long-horizon Multimodal Reasoning](https://arxiv.org/abs/2609.32326)
+
+Ziqiao Shang, Zian Xu, Ji-Chen Yan, **Weiming Wu**, Ziyi Jia, Jie Meng, Tao Huang, Shan Huang, Lan-Zhe Guo
+
+[**Paper**](https://arxiv.org/abs/2609.32326)
+|
+[**Code**](https://github.com/Ziqiao-Shang/RLHarness)
+
+</div>
+</div>
+
 <!-- OSWorld 2.0 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='https://osworld-v2.xlang.ai/static/images/osworld2/osworldv2_figure_main_latest.png' alt="OSWorld 2.0 overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
