@@ -15,6 +15,9 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<link rel="stylesheet" href="assets/css/homepage.css">
+<div class="homepage-reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
+
 <span class='anchor' id='about-me'></span>
 
 I am an undergraduate student majoring in Artificial Intelligence at the [School of Intelligence Science and Technology](https://is.nju.edu.cn/), [Nanjing University (NJU)](https://www.nju.edu.cn/).
@@ -105,28 +108,64 @@ At NJU, I am advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?
 - *2026.10*: &nbsp;🎉🎉 Our paper KDASO is accepted by NeurIPS 2026!
 - *2026.05*: &nbsp;🎉🎉 Our paper RideJudge is accepted by KDD 2026!
 - *2026.05*: &nbsp;🎉🎉 Our paper OpenAgent is accepted by ICML 2026!
-- *2025.07*: &nbsp;🎉🎉 Our work NesyGeo is accepted by AI4Math@ICML25!
 
 # 📝 Publications 
 
+<div class="publication-controls" data-publication-controls hidden>
+  <div class="publication-view-switch" role="group" aria-label="Publication view">
+    <button type="button" class="publication-view-button" data-publication-view="selected" aria-pressed="true" aria-controls="publication-list">Select List</button>
+    <button type="button" class="publication-view-button" data-publication-view="full" aria-pressed="false" aria-controls="publication-list">Full List</button>
+  </div>
+  <span class="publication-count" data-publication-count role="status" aria-live="polite" aria-atomic="true">4 selected papers</span>
+</div>
+
 <p class="pub-equal-note"><sup>*</sup> Equal contribution.</p>
 
-<!-- RLHarness -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/papers/rlharness.png' alt="RLHarness skill-policy co-adaptation" width="100%"></div></div>
+<noscript><style>#publication-list > .paper-box[hidden] { display: flex !important; }</style></noscript>
+<div id="publication-list" class="publication-list" data-view="selected" markdown="1">
+
+<!-- OpenAgent -->
+<div class='paper-box' data-publication="openagent" data-selected="true"><div class='paper-box-image'><div><div class="badge">ICML 2026 (CCF-A)</div><img src='images/papers/openagent.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[RLHarness: Co-evolving Procedural Skills with Reinforcement Learning for Long-horizon Multimodal Reasoning](https://arxiv.org/abs/2609.32326)
+[Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](https://wuwm109.github.io/OpenAgent-Page/)
 
-Ziqiao Shang, Zian Xu, Ji-Chen Yan, **Weiming Wu**, Ziyi Jia, Jie Meng, Tao Huang, Shan Huang, Lan-Zhe Guo
+**Weiming Wu**<sup>*</sup>, Song-Lin Lv<sup>*</sup>, Rui Zhu, Zi-Jian Cheng, Lan-Zhe Guo
 
-[**Paper**](https://arxiv.org/abs/2609.32326)
+[**Paper**](https://openreview.net/pdf?id=G3hX5Fkrg7)
 |
-[**Code**](https://github.com/Ziqiao-Shang/RLHarness)
+[**Project**](https://wuwm109.github.io/OpenAgent-Page/)
+|
+[**Code**](https://github.com/LAMDA-NeSy/OpenAgent)
+
+</div>
+</div>
+
+<!-- Ride-Hailing -->
+<div class='paper-box' data-publication="ride-hailing" data-selected="true"><div class='paper-box-image'><div><div class="badge">KDD 2026 (CCF-A)</div><img src='images/papers/adjudication.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication](https://arxiv.org/abs/2603.17328)
+
+**Weiming Wu**<sup>*</sup>, Zi-Jian Cheng<sup>*</sup>, Jie Meng, Peng Zhen, Shan Huang, Qun Li, Guobin Wu, Lan-Zhe Guo
+
+[**Paper**](https://arxiv.org/abs/2603.17328)
+
+</div>
+</div>
+
+<!-- KDASO -->
+<div class='paper-box' data-publication="kdaso" data-selected="true"><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 (CCF-A)</div><img src='images/kdaro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Task](https://openreview.net/forum?id=5F54Ji2eW3)
+
+Zi-Jian Cheng<sup>*</sup>, **Weiming Wu**<sup>*</sup>, Jie Meng, Zhen Peng, Shan Huang, Qun Li, Guobin Wu, Lan-Zhe Guo
+
+[**Paper**](https://openreview.net/forum?id=5F54Ji2eW3)
 
 </div>
 </div>
 
 <!-- OSWorld 2.0 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='https://osworld-v2.xlang.ai/static/images/osworld2/osworldv2_figure_main_latest.png' alt="OSWorld 2.0 overview" width="100%"></div></div>
+<div class='paper-box' data-publication="osworld" data-selected="true"><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='https://osworld-v2.xlang.ai/static/images/osworld2/osworldv2_figure_main_latest.png' alt="OSWorld 2.0 overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [OSWorld 2.0: Benchmarking Computer-Use Agents on Long-Horizon Real-World Tasks](https://arxiv.org/abs/2606.29537)
 
@@ -146,51 +185,22 @@ OSWorld 2.0 Hugging Face <a href="https://huggingface.co/datasets/xlangai/osworl
 </div>
 </div>
 
-<!-- OpenAgent -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 (CCF-A)</div><img src='images/papers/openagent.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use](https://wuwm109.github.io/OpenAgent-Page/)
-
-**Weiming Wu**<sup>*</sup>, Song-Lin Lv<sup>*</sup>, Rui Zhu, Zi-Jian Cheng, Lan-Zhe Guo
-
-[**Paper**](https://openreview.net/pdf?id=G3hX5Fkrg7)
-|
-[**Project**](https://wuwm109.github.io/OpenAgent-Page/)
-|
-[**Code**](https://github.com/LAMDA-NeSy/OpenAgent)
-
-</div>
-</div>
-
-<!-- Ride-Hailing -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026 (CCF-A)</div><img src='images/papers/adjudication.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[A Progressive Visual-Logic-Aligned Framework for Ride-Hailing Adjudication](https://arxiv.org/abs/2603.17328)
-
-**Weiming Wu**<sup>*</sup>, Zi-Jian Cheng<sup>*</sup>, Jie Meng, Peng Zhen, Shan Huang, Qun Li, Guobin Wu, Lan-Zhe Guo
-
-[**Paper**](https://arxiv.org/abs/2603.17328)
-
-</div>
-</div>
-
-
-
 <!-- NeSyGeo -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AI4Math@ICML 2025</div><img src='images/papers/nesygeo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-publication="nesygeo" hidden><div class='paper-box-image'><div><div class="badge">AI4Math@ICML 2025</div><img src='images/papers/nesygeo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [NeSyGeo: A Neuro-Symbolic Framework for Multimodal Geometric Reasoning Data Generation](https://arxiv.org/abs/2505.17121)
-  
+
 **Weiming Wu**, Jin Ye, Zi-Kang Wang, Zhi Zhou, Yu-Feng Li, Lan-Zhe Guo
 
 [**Paper**](https://arxiv.org/abs/2505.17121)
 </div>
 </div>
+
 <!-- MLLMs Benchmark -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Oral(CCF-A)</div><img src='images/papers/path.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-publication="general-bench" hidden><div class='paper-box-image'><div><div class="badge">ICML 2025 Oral(CCF-A)</div><img src='images/papers/path.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [On Path to Multimodal Generalist: General-Level and General-Bench](https://arxiv.org/abs/2505.04620)
-  
+
 Hao Fei<sup>*</sup>, Yuan Zhou<sup>*</sup>, Juncheng Li<sup>*</sup>, Xiangtai Li<sup>*</sup>, Qingshan Xu<sup>*</sup>, Bobo Li<sup>*</sup>, Shengqiong Wu<sup>*</sup>, Yaoting Wang, Junbao Zhou, Jiahao Meng, Qingyu Shi, Zhiyuan Zhou, Liangtao Shi, Minghe Gao, Daoan Zhang, Zhiqi Ge, **Weiming Wu**, Siliang Tang, Kaihang Pan, Yaobo Ye, Haobo Yuan, Tao Zhang, Tianjie Ju, Zixiang Meng, Shilin Xu, Liyu Jia, Wentao Hu, Meng Luo, Jiebo Luo, Tat-Seng Chua, Shuicheng Yan, Hanwang Zhang
 
 [**Paper**](https://arxiv.org/abs/2505.04620)
@@ -209,24 +219,11 @@ General-Bench <a href="https://huggingface.co/datasets/General-Level/General-Ben
 </div>
 </div>
 
-
-
-<!-- KDASO -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 (CCF-A)</div><img src='images/kdaro.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Task](https://openreview.net/forum?id=5F54Ji2eW3)
-  
-Zi-Jian Cheng<sup>*</sup>, **Weiming Wu**<sup>*</sup>, Jie Meng, Zhen Peng, Shan Huang, Qun Li, Guobin Wu, Lan-Zhe Guo
-
-[**Paper**](https://openreview.net/forum?id=5F54Ji2eW3)
-
-</div>
-</div>
 <!-- MapTab -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/maptab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' data-publication="maptab" hidden><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/maptab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MapTab: Are MLLMs Ready for Multi-Criteria Route Planning in Heterogeneous Graphs?](https://arxiv.org/abs/2602.18600)
-  
+
 Ziqiao Shang<sup>*</sup>, Lingyue Ge<sup>*</sup>, Zi-Jian Cheng, Shi-Yu Tian, Zhenyu Huang, Wenbo Fu, **Weiming Wu**, Yang Chen, Xiangwen Zhang, Yulan Hu, Bin Liu, Yu-Feng Li, Lan-Zhe Guo
 
 [**Paper**](https://arxiv.org/abs/2602.18600)
@@ -235,6 +232,23 @@ Ziqiao Shang<sup>*</sup>, Lingyue Ge<sup>*</sup>, Zi-Jian Cheng, Shi-Yu Tian, Zh
 
 </div>
 </div>
+
+<!-- RLHarness -->
+<div class='paper-box' data-publication="rlharness" hidden><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/papers/rlharness.png' alt="RLHarness skill-policy co-adaptation" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+[RLHarness: Co-evolving Procedural Skills with Reinforcement Learning for Long-horizon Multimodal Reasoning](https://arxiv.org/abs/2609.32326)
+
+Ziqiao Shang, Zian Xu, Ji-Chen Yan, **Weiming Wu**, Ziyi Jia, Jie Meng, Tao Huang, Shan Huang, Lan-Zhe Guo
+
+[**Paper**](https://arxiv.org/abs/2609.32326)
+|
+[**Code**](https://github.com/Ziqiao-Shang/RLHarness)
+
+</div>
+</div>
+
+</div>
+
 # 🎖 Selected Honors and Awards
 - *2025:*  National Scholarship (Top 0.2%, Highest Honor for undergraduates in China)
 - *2024:* Nanjing University RuLi Scholarship
@@ -388,3 +402,5 @@ Ziqiao Shang<sup>*</sup>, Lingyue Ge<sup>*</sup>, Zi-Jian Cheng, Shi-Yu Tian, Zh
   }
 })();
 </script>
+
+<script src="assets/js/homepage.js"></script>
