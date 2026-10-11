@@ -1,0 +1,137 @@
+/* Publication views and lightweight homepage motion. */
+.publication-controls {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: .65rem 1rem;
+  margin: 1.1rem 0 .8rem;
+}
+
+.publication-controls[hidden],
+.publication-list > .paper-box[hidden] {
+  display: none;
+}
+
+.publication-view-switch {
+  display: inline-flex;
+  max-width: 100%;
+  padding: .25rem;
+  border: 1px solid #dce4ef;
+  border-radius: 999px;
+  background: #f3f6fb;
+}
+
+.publication-view-button {
+  padding: .55rem .85rem;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: #52617a;
+  font: inherit;
+  font-size: .85em;
+  font-weight: 600;
+  line-height: 1.35;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: background-color .2s, color .2s, box-shadow .2s;
+}
+
+.publication-view-button[aria-pressed="true"] {
+  background: #00369f;
+  color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 54, 159, .18);
+}
+
+.publication-view-button:focus-visible {
+  outline: 2px solid #00369f;
+  outline-offset: 3px;
+}
+
+.publication-count {
+  color: #64748b;
+  font-size: .8em;
+}
+
+.publication-list > .paper-box {
+  border-radius: 12px;
+  transition: background-color .25s;
+}
+
+.publication-list > .paper-box:focus-within {
+  background-color: #f6f9ff;
+}
+
+.publication-list .paper-box-image img {
+  transition: transform .25s, box-shadow .25s;
+}
+
+.publication-list > .paper-box.is-revealed {
+  animation: publication-reveal .45s ease-out both;
+}
+
+@keyframes publication-reveal {
+  from {
+    opacity: .3;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.homepage-reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 3px;
+  z-index: 999;
+  pointer-events: none;
+}
+
+.homepage-reading-progress > span {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg, #00369f, #4682c4, #75b9d4);
+  transform: scaleX(0);
+  transform-origin: left;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .publication-view-button[aria-pressed="false"]:hover {
+    background-color: #e5ecf7;
+    color: #00369f;
+  }
+
+  .publication-list > .paper-box:hover {
+    background-color: #f6f9ff;
+  }
+
+  .publication-list > .paper-box:hover .paper-box-image img {
+    transform: translateY(-3px);
+    box-shadow: 3px 7px 14px rgba(0, 54, 159, .15);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .publication-view-button,
+  .publication-list > .paper-box,
+  .publication-list > .paper-box.is-revealed,
+  .publication-list .paper-box-image img {
+    animation: none;
+    transition: none;
+  }
+
+  .publication-list > .paper-box:hover .paper-box-image img {
+    transform: none;
+  }
+}
+
+@media (max-width: 400px) {
+  .publication-view-button {
+    padding: .55rem .65rem;
+    font-size: .8em;
+  }
+}
