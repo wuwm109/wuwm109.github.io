@@ -38,6 +38,12 @@ At NJU, I am advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?
   color: #b22222 !important;
 }
 
+.page-last-updated {
+  margin-top: 2rem;
+  color: #767676;
+  font-size: .85em;
+}
+
 #wechat-modal[hidden] {
   display: none !important;
 }
@@ -96,6 +102,7 @@ At NJU, I am advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 Our paper KDASO is accepted by NeurIPS 2026!
 - *2026.05*: &nbsp;🎉🎉 Our paper RideJudge is accepted by KDD 2026!
 - *2026.05*: &nbsp;🎉🎉 Our paper OpenAgent is accepted by ICML 2026!
 - *2025.07*: &nbsp;🎉🎉 Our work NesyGeo is accepted by AI4Math@ICML25!
@@ -190,16 +197,18 @@ General-Bench <a href="https://huggingface.co/datasets/General-Level/General-Ben
 
 
 
-<!-- KDARO -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/kdaro.png' alt="sym" width="100%"></div></div>
+<!-- KDASO -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 (CCF-A)</div><img src='images/kdaro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-KDARO: Knowledge-Data Automated Rule Optimization for Liability Adjudication Task
+[KDASO: Knowledge-Data Dual-Driven Automated Skill Optimization for Liability Adjudication Task](https://openreview.net/forum?id=5F54Ji2eW3)
   
 Zi-Jian Cheng<sup>*</sup>, **Weiming Wu**<sup>*</sup>, Jie Meng, Zhen Peng, Shan Huang, Qun Li, Guobin Wu, Lan-Zhe Guo
 
+[**Paper**](https://openreview.net/forum?id=5F54Ji2eW3)
+
 </div>
 </div>
-<!-- KDARO -->
+<!-- MapTab -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/maptab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [MapTab: Are MLLMs Ready for Multi-Criteria Route Planning in Heterogeneous Graphs?](https://arxiv.org/abs/2602.18600)
@@ -222,12 +231,14 @@ Ziqiao Shang<sup>*</sup>, Lingyue Ge<sup>*</sup>, Zi-Jian Cheng, Shi-Yu Tian, Zh
 # 💼 Experience
 - *2026.02 - now*, Research Assistant, XLANG Lab, The University of Hong Kong
 - *2025.07 - 2026.04*, Research Intern, MPT Department, Didiglobal, Beijing, China
--  *2024.10 - now*, Research Assistant, Lamda-12 Lab, Nanjing University
+- *2024.10 - 2026.07*, Research Assistant, Lamda-12 Lab, Nanjing University
 
   
 # 💁‍♂️ Services
-- Reviewer:  ECAI'25, IJCNN'26, ICML'25 Workshop@AI4Math
+- Reviewer:  ECAI'25, IJCNN'26, ICML'25 Workshop@AI4Math, AAAI'27
 - Teaching Assistant: 2025 fall Introduction to AI at NJU IS
+
+<p class="page-last-updated">Last updated: <time datetime="2026-10-11">2026-10-11</time></p>
 
 <script>
 (function () {
