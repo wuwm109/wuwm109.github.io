@@ -18,6 +18,8 @@ redirect_from:
 <link rel="stylesheet" href="assets/css/homepage.css">
 <div class="homepage-reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
 
+<p class="page-last-updated">Last updated: <time datetime="2026-10">2026-10</time></p>
+
 <span class='anchor' id='about-me'></span>
 
 I am an undergraduate student majoring in Artificial Intelligence at the [School of Intelligence Science and Technology](https://is.nju.edu.cn/), [Nanjing University (NJU)](https://www.nju.edu.cn/).
@@ -42,7 +44,7 @@ At NJU, I am advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?
 }
 
 .page-last-updated {
-  margin-top: 2rem;
+  margin: 0 0 .75rem;
   color: #767676;
   font-size: .85em;
 }
@@ -266,7 +268,6 @@ Ziqiao Shang, Zian Xu, Ji-Chen Yan, **Weiming Wu**, Ziyi Jia, Jie Meng, Tao Huan
 - Reviewer:  ECAI'25, IJCNN'26, ICML'25 Workshop@AI4Math, AAAI'27
 - Teaching Assistant: 2025 fall Introduction to AI at NJU IS
 
-<p class="page-last-updated">Last updated: <time datetime="2026-10-11">2026-10-11</time></p>
 
 <script>
 (function () {
