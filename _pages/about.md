@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<link rel="stylesheet" href="assets/css/homepage.css">
+<link rel="stylesheet" href="assets/css/homepage.css?v=20261011-visitors">
 <div class="homepage-reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
 
 <span class='anchor' id='about-me'></span>
@@ -264,21 +264,20 @@ Ziqiao Shang, Zian Xu, Ji-Chen Yan, **Weiming Wu**, Ziyi Jia, Jie Meng, Tao Huan
 
 <div class="homepage-visitors">
   <div class="homepage-visitors__count">
-    <!-- Both widgets share this homepage's dedicated Supercounters site ID. -->
-    <script src="https://widget.supercounters.com/ssl/texthit.js"></script>
-    <script>var sc_texthit_var = sc_texthit_var || [];sc_text_hit(1739339,"total visits","00369f");</script>
+    <span id="busuanzi_container_site_uv" aria-live="polite">Total visitors: <span id="busuanzi_value_site_uv">—</span></span>
+    <script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   </div>
   <div class="homepage-visitors__map">
-    <script src="https://widget.supercounters.com/ssl/map.js"></script>
-    <script>
-      var sc_map_var = sc_map_var || [];
-      var visitorMapWidth = Math.min(420, document.currentScript.parentElement.clientWidth);
-      var visitorMapRate = Math.max(40, Math.floor(visitorMapWidth / 420 * 100));
-      sc_map(1739339,"112288","ff0000",visitorMapRate === 100 ? 1 : visitorMapRate);
+    <a class="visitor-map-fallback" href="https://whos.amung.us/stats/4252zi7gep/" target="_blank" rel="noopener noreferrer"><img src="https://widgets.amung.us/mapbacks/classic.jpg" alt="World map" width="420" height="210"></a>
+    <script id="_wau7fl">
+      var _wau = _wau || [];
+      var visitorMapWidth = Math.floor(Math.min(420, document.currentScript.parentElement.clientWidth));
+      _wau.push(["map", "4252zi7gep", "7fl", visitorMapWidth, Math.round(visitorMapWidth / 2), "classic", "default-blue"]);
     </script>
+    <script async src="https://waust.at/m.js"></script>
   </div>
-  <p class="homepage-visitors__note">Since Oct 2026 · <a href="https://www.supercounters.com/stats/1739339" target="_blank" rel="noopener noreferrer">Live visitor statistics</a></p>
-  <noscript><p><a href="https://www.supercounters.com/stats/1739339">View visitor map and total visits</a></p></noscript>
+  <p class="homepage-visitors__note">Tracking enabled Oct 2026 · <a href="https://whos.amung.us/stats/4252zi7gep/" target="_blank" rel="noopener noreferrer">Live visitor map</a></p>
+  <noscript><p><a href="https://whos.amung.us/stats/4252zi7gep/">View visitor map</a></p></noscript>
 </div>
 
 

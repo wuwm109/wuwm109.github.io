@@ -144,6 +144,32 @@
   line-height: 0;
 }
 
+.homepage-visitors__map > span {
+  position: relative;
+  margin-right: 0 !important;
+  text-align: left;
+  cursor: pointer;
+}
+
+.homepage-visitors__map img {
+  animation: none !important;
+}
+
+.visitor-map-fallback {
+  display: block;
+  max-width: 420px;
+  margin: 0 auto;
+}
+
+.visitor-map-fallback img {
+  width: 100%;
+  height: auto;
+}
+
+.homepage-visitors__map:has(> span) .visitor-map-fallback {
+  display: none;
+}
+
 .page__content .homepage-visitors__note {
   margin: 1rem 0 0;
   color: #767676;
