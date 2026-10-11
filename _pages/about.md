@@ -18,8 +18,6 @@ redirect_from:
 <link rel="stylesheet" href="assets/css/homepage.css">
 <div class="homepage-reading-progress" aria-hidden="true"><span data-reading-progress></span></div>
 
-<p class="page-last-updated">Last updated: <time datetime="2026-10">2026-10</time></p>
-
 <span class='anchor' id='about-me'></span>
 
 I am an undergraduate student majoring in Artificial Intelligence at the [School of Intelligence Science and Technology](https://is.nju.edu.cn/), [Nanjing University (NJU)](https://www.nju.edu.cn/).
@@ -41,12 +39,6 @@ At NJU, I am advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?
 .impact-stat:link,
 .impact-stat:visited {
   color: #b22222 !important;
-}
-
-.page-last-updated {
-  margin: 0 0 .75rem;
-  color: #767676;
-  font-size: .85em;
 }
 
 #wechat-modal[hidden] {
@@ -267,6 +259,27 @@ Ziqiao Shang, Zian Xu, Ji-Chen Yan, **Weiming Wu**, Ziyi Jia, Jie Meng, Tao Huan
 # 💁‍♂️ Services
 - Reviewer:  ECAI'25, IJCNN'26, ICML'25 Workshop@AI4Math, AAAI'27
 - Teaching Assistant: 2025 fall Introduction to AI at NJU IS
+
+# 🌍 Visitors
+
+<div class="homepage-visitors">
+  <div class="homepage-visitors__count">
+    <!-- Both widgets share this homepage's dedicated Supercounters site ID. -->
+    <script src="https://widget.supercounters.com/ssl/texthit.js"></script>
+    <script>var sc_texthit_var = sc_texthit_var || [];sc_text_hit(1739339,"total visits","00369f");</script>
+  </div>
+  <div class="homepage-visitors__map">
+    <script src="https://widget.supercounters.com/ssl/map.js"></script>
+    <script>
+      var sc_map_var = sc_map_var || [];
+      var visitorMapWidth = Math.min(420, document.currentScript.parentElement.clientWidth);
+      var visitorMapRate = Math.max(40, Math.floor(visitorMapWidth / 420 * 100));
+      sc_map(1739339,"112288","ff0000",visitorMapRate === 100 ? 1 : visitorMapRate);
+    </script>
+  </div>
+  <p class="homepage-visitors__note">Since Oct 2026 · <a href="https://www.supercounters.com/stats/1739339" target="_blank" rel="noopener noreferrer">Live visitor statistics</a></p>
+  <noscript><p><a href="https://www.supercounters.com/stats/1739339">View visitor map and total visits</a></p></noscript>
+</div>
 
 
 <script>
