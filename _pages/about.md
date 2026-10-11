@@ -113,7 +113,7 @@ At NJU, I am advised by [Prof. Lanzhe Guo](https://scholar.google.com/citations?
 
 <div class="publication-controls" data-publication-controls hidden>
   <div class="publication-view-switch" role="group" aria-label="Publication view">
-    <button type="button" class="publication-view-button" data-publication-view="selected" aria-pressed="true" aria-controls="publication-list">Selected Publications</button>
+    <button type="button" class="publication-view-button" data-publication-view="selected" aria-pressed="true" aria-controls="publication-list">Select List</button>
     <button type="button" class="publication-view-button" data-publication-view="full" aria-pressed="false" aria-controls="publication-list">Full List</button>
   </div>
   <span class="publication-count" data-publication-count role="status" aria-live="polite" aria-atomic="true">4 selected papers</span>
